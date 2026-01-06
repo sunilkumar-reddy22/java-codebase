@@ -10,6 +10,7 @@ public class TypePromotion {
         double d = 7373298.2345;
         double result = (x * n) + (b / c) - (f -d);
         System.out.println(( x * n) + " " + (b / c) + " " + (f - d));
+        System.out.println(result);
 
 
     }
