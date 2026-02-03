@@ -6,6 +6,8 @@ public class CaseCheck {
         Scanner letter  = new Scanner(System.in);
         char ch = letter.next().trim().charAt(0);
         System.out.println(ch);
+        String word = "hello";
+        System.out.println(word.charAt(3));
 
     }
 }
