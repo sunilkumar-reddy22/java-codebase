@@ -1,4 +1,6 @@
 package basics;
+import org.w3c.dom.ls.LSOutput;
+
 import java.util.Scanner;
 public class Fabinum {
     public static void main(String[] args) {
